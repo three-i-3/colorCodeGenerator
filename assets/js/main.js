@@ -1,5 +1,5 @@
 function alertFunction () {
-	alert("Please Click on 'Refresh' button for Hex generate Color Codes");
+	alert("Please Click on 'Refresh' button for  generate Hex Color Codes");
 }
 
 for (let i = 1; i <= 100; i++) {
